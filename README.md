@@ -25,7 +25,7 @@ To Configure this project, create an environment using the follow command:
 or
 ```bash
   pip install instaloader
-  instaloader "#hairstylistantwerp" --fast-update --no-pictures --no-videos --no-captions
+  instaloader "#desbravadore" --fast-update --no-pictures --no-videos --no-captions
 ```
 if have an error in requirements installation. To run this project :
 ```bash
